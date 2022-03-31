@@ -1,0 +1,4 @@
+# Created at 2022-03-30T12:17:08.166
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Katraj-18-Dec-Kites\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
